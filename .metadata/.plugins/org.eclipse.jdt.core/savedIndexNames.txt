@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\Final\Batc\.metadata\.plugins\org.eclipse.jdt.core
+1811776099.index
