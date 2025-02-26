@@ -83,3 +83,7 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2025-02-26 14:30:01,050 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Final\Batc\BATCHCMD\src\main\resources
 2025-02-26 14:30:01,052 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-02-26 14:30:01,052 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Final\Batc\BATCHCMD\src\test\resources
+2025-02-26 16:19:44,851 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-02-26 16:19:44,860 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Final\Batc\BATCHCMD\src\main\resources
+2025-02-26 16:19:44,868 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-02-26 16:19:44,869 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Final\Batc\BATCHCMD\src\test\resources
